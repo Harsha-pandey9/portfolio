@@ -66,7 +66,7 @@ Follow the steps below to set up the project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/Adarsh130/Portfolio.git
+git clone https://github.com/Harsha-pandey9/Portfolio.git
 cd Portfolio
 
 # 2️⃣ Install dependencies
