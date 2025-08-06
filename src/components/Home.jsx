@@ -57,7 +57,7 @@ const Home = () => {
             Contact Me
           </a>
           <a
-            href="/Adarsh_Resume.pdf"
+            href="/harsha_resume_final.pdf"
             download
             className="flex items-center justify-center gap-2 border-2 border-blue-600 dark:border-blue-400 text-blue-600 dark:text-blue-400 px-6 py-3 rounded-xl font-semibold hover:bg-blue-600 hover:text-white dark:hover:text-white transition-transform transform hover:scale-105"
           >
