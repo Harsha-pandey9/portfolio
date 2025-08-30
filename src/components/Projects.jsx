@@ -1,6 +1,6 @@
 import React from "react";
 import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
-import aibased from "../assets/projects/ai-based.png";
+import aibased from "../assets/projects/shot1.png";
 import weatherApp from "../assets/projects/weather.png";
 import ieeeSite from "../assets/projects/ieee.png";
 import iriesModel from "../assets/projects/iries.png";
