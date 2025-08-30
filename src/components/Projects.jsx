@@ -12,7 +12,7 @@ const projects = [
     title: "AI-Based Tutoring Platform",
     description:
       "Built an intelligent tutoring system with a Python AI assistant and frontend using HTML/CSS.",
-    url: "https://github.com/Harsha-pandey9/AI-Based Tutoring Platform",
+    url: "https://github.com/Harsha-pandey9/Ai-Based-Tutoring-",
     demo: "https://tutoringbyai.netlify.app/",
     image: aibased,
   },
@@ -20,7 +20,7 @@ const projects = [
     title: "Weather APP",
     description:
       "A weather app using Flask and HTML/Bootstrap that fetches real-time weather data.",
-    url: "https://github.com/Adarsh130/Weather_APP",
+    url: "https://github.com/Harsha-pandey9/Weather-prediction",
     demo: "https://weather-app-by-adarsh.up.railway.app/",
     image: weatherApp,
   },
@@ -28,7 +28,7 @@ const projects = [
     title: "Bit IEEE Conference Webpage",
     description:
       "A modern React.js powered responsive website for an IEEE conference or college event.",
-    url: "https://github.com/Adarsh130/Bit_IEEE_website",
+    url: "https://github.com/Harsha-pandey9/BIt_IEEE_website",
     demo: "https://bit-conference-2025.netlify.app",
     image: ieeeSite,
   },
@@ -36,7 +36,7 @@ const projects = [
     title: "IRIES MODEL",
     description:
       "Jupyter Notebook showcasing clustering and modeling techniques using the IRIES dataset.",
-    url: "https://github.com/Adarsh130/IRIES_MODEL",
+    url: "https://github.com/Harsha-pandey9/IRIS_MODEL",
     demo: "https://github.com/Adarsh130/IRIES_MODEL",
     image: iriesModel,
   },
@@ -44,7 +44,7 @@ const projects = [
     title: "Insurance Prediction",
     description:
       "ML project predicting insurance purchase behavior using classification models.",
-    url: "https://github.com/Adarsh130/Insurance_Prediction",
+    url: "https://github.com/Harsha-pandey9/Insurence_Predection",
     demo: "https://insurance-prediction.up.railway.app/",
     image: insurance,
   },
@@ -52,7 +52,7 @@ const projects = [
     title: "Diabetes Prediction",
     description:
       "Predicts diabetes likelihood using supervised learning in a Jupyter Notebook.",
-    url: "https://github.com/Adarsh130/Diabetes_Prediction",
+    url: "https://github.com/Harsha-pandey9/Diabetes_Predidtion",
     demo: "https://diabetesprediction.up.railway.app/",
     image: diabetes,
   },
